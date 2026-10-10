@@ -13,7 +13,8 @@
     "text": "View MathMesher on GitHub"
   },
   "githubRepos": [
-    "kinakomoti-321/MathMesher"
+    "kinakomoti-321/MathMesher",
+    "kinakomoti-321/TakenokoShader"
   ],
   "packages": []
 }
